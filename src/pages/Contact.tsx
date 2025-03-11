@@ -32,17 +32,17 @@ const Contact = () => {
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Phone",
-      details: ["+1 234 567 890", "+1 234 567 891"]
+      details: ["+254114411122"]
     },
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      details: ["info@techpro.com", "support@techpro.com"]
+      details: ["crescentsolutionstechn@gmail.com"]
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Address",
-      details: ["123 Tech Street", "Silicon Valley, CA 94025"]
+      details: ["Nairobi Street, Kenya"]
     },
     {
       icon: <Clock className="w-6 h-6" />,
@@ -211,7 +211,7 @@ const Contact = () => {
             className="aspect-w-16 aspect-h-9"
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.6282712598426!2d-122.08624708439134!3d37.42199997982448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb7495bec0189%3A0x7c17d44a466baf9b!2sPalo+Alto%2C+CA+94304!5e0!3m2!1sen!2sus!4v1565098644267!5m2!1sen!2sus"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11284.729249927936!2d37.65173128379857!3d-0.32460898542003064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1827b87d15133c4b%3A0x989bec815b0252c5!2sChuka!5e0!3m2!1sen!2ske!4v1741679287082!5m2!1sen!2ske"
               width="100%"
               height="450"
               style={{ border: 0 }}
